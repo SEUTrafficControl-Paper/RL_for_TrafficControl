@@ -1,0 +1,16 @@
+{
+  "free_speed": 100.75,
+  "cri_density": 19.85,
+  "jam_density": 102,
+  "num_lanes": 3,
+  "num_cells": 25,
+  "cell_length": 0.3,
+  "duration_time_step": 10,
+  "simulation_period": 2,
+  "prediction_horizon": 600,
+  "min_VSL": 50,
+  "capacity_drop": 0.79,
+  "duration_control_step": 30,
+  "predicted_steps": 60,
+  "VSL_values": [60, 50]
+}
